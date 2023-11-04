@@ -29,7 +29,7 @@ For automated testing and building:
 -   Apache Maven 3.3.9 or higher
 -   Java 8 or higher
 
-For running JBase64Transformer
+For running CafeBase64
 
 -   Java 8 or higher
 
@@ -76,8 +76,7 @@ executable JAR file.
 -   Remove `[OPTION]...` or replace `[OPTION]...` with one or more of the 
 command line options described in the usage below.
 -   Remove `[FILE]` or replace `[FILE]` with the file you would like to be 
-transformed to standard output. (Removing `[FILE]` will cause 
-JBase64Transformer to use standard input as input instead of a file.)
+transformed to standard output. (Removing `[FILE]` will cause CafeBase64 to use standard input as input instead of a file.)
 
 ## Usage
 
