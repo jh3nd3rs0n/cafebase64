@@ -76,7 +76,8 @@ executable JAR file.
 -   Remove `[OPTION]...` or replace `[OPTION]...` with one or more of the 
 command line options described in the usage below.
 -   Remove `[FILE]` or replace `[FILE]` with the file you would like to be 
-transformed to standard output. (Removing `[FILE]` will cause CafeBase64 to use standard input as input instead of a file.)
+transformed to standard output. (Removing `[FILE]` will cause CafeBase64 to 
+use standard input as input instead of a file.)
 
 ## Usage
 
