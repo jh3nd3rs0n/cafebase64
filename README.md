@@ -20,7 +20,7 @@ example of using ArgMatey.
 ## License
 
 CafeBase64 is licensed under the 
-[MIT license](https://github.com/jh3nd3rs0n/jbase64transformer/blob/master/LICENSE)
+[MIT license](https://github.com/jh3nd3rs0n/cafebase64/blob/master/LICENSE)
 
 ## Requirements
 
