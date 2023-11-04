@@ -4,7 +4,7 @@
 	<groupId>com.github.jh3nd3rs0n</groupId>
 	<artifactId>cafebase64</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>JBase64Transformer</name>
+	<name>CafeBase64</name>
 	<description>A Java implementation of GNU's command line utility base64 and an example of using ArgMatey</description>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -27,7 +27,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.github.jh3nd3rs0n.jbase64transformer.Base64TransformerCLI</mainClass>
+							<mainClass>com.github.jh3nd3rs0n.cafebase64.CafeBase64CLI</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
